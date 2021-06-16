@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gabrielperullini.github.io/csb-e0jpb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://gabrielperullini.github.io/csb-e0jpb/static/js/main.50e45867.chunk.js",
+    "main.js.map": "https://gabrielperullini.github.io/csb-e0jpb/static/js/main.50e45867.chunk.js.map",
+    "runtime-main.js": "https://gabrielperullini.github.io/csb-e0jpb/static/js/runtime-main.4d8683c1.js",
+    "runtime-main.js.map": "https://gabrielperullini.github.io/csb-e0jpb/static/js/runtime-main.4d8683c1.js.map",
+    "static/js/2.21f742c8.chunk.js": "https://gabrielperullini.github.io/csb-e0jpb/static/js/2.21f742c8.chunk.js",
+    "static/js/2.21f742c8.chunk.js.map": "https://gabrielperullini.github.io/csb-e0jpb/static/js/2.21f742c8.chunk.js.map",
+    "index.html": "https://gabrielperullini.github.io/csb-e0jpb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://gabrielperullini.github.io/csb-e0jpb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.21f742c8.chunk.js.LICENSE.txt": "https://gabrielperullini.github.io/csb-e0jpb/static/js/2.21f742c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d8683c1.js",
+    "static/js/2.21f742c8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.50e45867.chunk.js"
+  ]
+}
